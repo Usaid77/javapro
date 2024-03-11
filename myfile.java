@@ -2,7 +2,7 @@ class myfile {
 
     public static void main(String[] args) {
 
-        System.out.println("nhhhew Helllo, World!"); 
+        System.out.println("Thankyou Helllo, World!"); 
 
     }
 
